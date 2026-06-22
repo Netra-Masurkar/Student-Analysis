@@ -1,4 +1,4 @@
-# 🎓 Student Management Analysis
+#  Student Management Analysis
 
 ## Project Overview
 
@@ -8,7 +8,7 @@ The objective of this project is to analyze student marks, attendance, grades, a
 
 ---
 
-## 🚀 Technologies Used
+##  Technologies Used
 
 * Python
 * Pandas
@@ -18,7 +18,7 @@ The objective of this project is to analyze student marks, attendance, grades, a
 
 ---
 
-## 📊 Dataset Information
+##  Dataset Information
 
 The dataset contains the following information:
 
@@ -35,7 +35,7 @@ The dataset contains the following information:
 
 ---
 
-## 🔍 Analysis Performed
+##  Analysis Performed
 
 ### Data Exploration
 
@@ -67,7 +67,7 @@ The dataset contains the following information:
 
 ---
 
-## 🏆 Grading System
+##  Grading System
 
 | Percentage       | Grade |
 | ---------------- | ----- |
@@ -79,7 +79,7 @@ The dataset contains the following information:
 
 ---
 
-## 🎯 Project Objectives
+##  Project Objectives
 
 * Analyze student academic performance.
 * Perform data cleaning and transformation.
@@ -89,35 +89,13 @@ The dataset contains the following information:
 
 ---
 
-## ▶️ How to Run
-
-### Clone the Repository
-
-```bash
-git clone https://github.com/Netra-Masurkar/Student-Analysis.git
-```
-
-### Install Required Libraries
-
-```bash
-pip install pandas numpy matplotlib seaborn
-```
-
-### Run the Project
-
-```bash
-python Student_Management_Analysis.py
-```
-
----
-
-## 👩‍💻 Author
+##  Author
 
 **Netra Masurkar**
 
 ---
 
-## 📈 Future Enhancements
+##  Future Enhancements
 
 * Use real student datasets.
 * Build an interactive Power BI dashboard.
